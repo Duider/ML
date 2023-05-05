@@ -1,0 +1,57 @@
+Pistols,Deploy Time,"Reload
+(Clip Ready)","Reload
+(Fire Ready)"
+Desert Eagle,1.00,0.87,2.20
+R8 Revolver,1.17,1.97,2.27
+Dual Berettas,1.00,2.90,3.77
+Five-SeveN,1.00,0.93,2.27
+Glock-18,1.10,0.93,2.27
+P2000,1.00,0.97,2.27
+USP-S,1.00,0.97,2.17
+P250,1.00,0.93,2.27
+CZ75 Auto,1.83,1.53 & 1.17,2.73 & 2.83
+Tec-9,1.00,1.33,2.57
+,,,
+Shotguns,Deploy Time,"Reload
+(Clip Ready)","Reload
+(Fire Ready)"
+Mag-7,1.00,1.07,2.47
+Nova,1.00,0.54,4.74
+Sawed-Off,1.00,0.55,4.22
+XM1014,1.00,0.53,4.22
+,,,
+SMGs,Deploy Time,"Reload
+(Clip Ready)","Reload
+(Fire Ready)"
+PP-Bizon,1.10,1.17,2.43
+MAC-10,1.00,1.27,2.57
+MP7,1.00,1.43,3.13
+MP5-SD,1.00,1.97,2.94
+MP9,1.20,0.87,2.13
+P90,1.00,1.97,3.37
+UMP-45,1.00,1.50,3.43
+,,,
+Automatic Rifles,Deploy Time,"Reload
+(Clip Ready)","Reload
+(Fire Ready)"
+AK-47,1.00,1.17,2.43
+AUG,1.17,1.53,3.77
+FAMAS,1.00,1.63,3.30
+Galil AR,1.10,1.17,3.03
+M4A4,1.13,1.37,3.07
+M4A1-S,1.13,1.37,3.07
+SG 553,1.00,1.03,2.77
+,,,
+LMGs,Deploy Time,"Reload
+(Clip Ready)","Reload
+(Fire Ready)"
+M249,1.1 & 1.0,3.73,5.70
+Negev,1.1 & 1.0,3.83,5.70
+,,,
+Sniper Rifles,Deploy Time,"Reload
+(Clip Ready)","Reload
+(Fire Ready)"
+AWP,1.25,2.00,3.67
+G3SG1,1.00,2.60,4.67
+SCAR-20,1.00,1.40,3.07
+SSG 08,1.00,1.97,3.70
